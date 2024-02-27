@@ -32,7 +32,7 @@
 <h3 align="center"><b>🎮 Stack 🎮</b></h3>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princebyun&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princebyun&layout=compact&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princebyun&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princebyun&layout=compact&theme=onedark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bok01007)](https://solved.ac/bok01007)
 
