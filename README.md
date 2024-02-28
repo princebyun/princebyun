@@ -39,12 +39,10 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 	(Engineer who always Considers Problems)
 
 ### I am a ...
-	Platform Engieer. Kakao. Corp.
-	Backend Dev. Hyundai. AutoEver.
-	Lead Backend Dev. Oli.
-	Student. Comp-Sci. Korea Univ.
-	3rd-Term Cadet. 42 Seoul.
-
+	Backend Dev. Plani 
+	Backend Dev. DainLab. Corp. 
+	Backend Dev. INS(LGCNS Project).
+	7rd-Term. DDIT.
 <br/>
 
 
