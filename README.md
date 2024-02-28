@@ -9,18 +9,20 @@
 I understand RESTful principles to design robust and scalable APIs.
 
 I understand OOP (Object-Oriented Programming) to write role-based objects.
+
+I can build servers using Spring and Spring Boot and JPA.
+
+I can also build web servers using Nginx.
 </div>
 
 <div>
 I can select and use API styles such as RESTAPI, GraphQL, and grRPC according to the situation.
 
-I can write functional programs for MSA which is based on non-blocking I/O reactor patterns such as WebFlux or Rx.
-</div>
+I am proficient in using Oracle and PostgreSQL databases.
 
-<div>
-I have experience leading a Backend team in a startup business and designing project & application architecture for MSA Backend.
+I am capable of setting up server environments using Linux and AWS.
 
-I am interested in Cloud & Container (k8s) as well as DB (SQL) technologies which allow me to effectively handle any problems that may arise while running applications.
+I can utilize Thymeleaf, Vue.js, and Vuetify to build user interfaces.
 </div>
 
 Among all those capabilities, the most powerful aspect is my ability to effectively communicate with colleagues and share the ideas I have been considering, thereby enhancing the outcomes.
