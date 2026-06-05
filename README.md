@@ -74,13 +74,3 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 
 <h3 align="center"><b>🎮 Stack 🎮</b></h3>
 </br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princebyun&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princebyun&layout=compact&theme=onedark)
-
-
- <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bok01007">
-    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bok01007">
-    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bok01007&theme=dark">
-  </a>
-
-
