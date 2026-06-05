@@ -2,7 +2,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Princebyun)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprincebyun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23B822B2&icon=spinrilla.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+운영중인 사이트 : <a href="https://llmbenchmark.princebyun.com">개인 PC 로컬 LLM 벤치마크 측정 사이트</a>
 
 
 <div>
