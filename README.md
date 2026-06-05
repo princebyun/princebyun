@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Princebyun)
 </br>
 
-운영중인 사이트 : <a href="https://llmbenchmark.princebyun.com">개인 PC 로컬 LLM 벤치마크 측정 사이트</a>
+운영중인 사이트 : <a href="https://www.llmbenchmark.princebyun.com">개인 PC 로컬 LLM 벤치마크 측정 사이트</a>
 
 
 <div>
